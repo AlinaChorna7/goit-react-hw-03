@@ -4,7 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-
+h1{
+  font-size: 20px;
+}
+/* 
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -26,12 +29,15 @@
     transform: rotate(360deg);
   }
 }
+a{
+  list-style: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   a:nth-of-type(2) .logo {
     animation: logo-spin infinite 20s linear;
-  }
-}
+  } 
+}*/
 
 .card {
   padding: 2em;
